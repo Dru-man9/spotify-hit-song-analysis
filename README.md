@@ -18,6 +18,7 @@ across 29 audio and descriptive features via Kaggle.
 
 ## Tools Used
 - Claude for Excel (statistical analysis + pivot tables)
+- Claude (To generate questions for a situation in order to put into Claude for Excel)
 - Excel (data organization and visualization)
 
 ## Files
